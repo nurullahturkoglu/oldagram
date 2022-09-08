@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: #EDEDED;
+}
+
+.avatar{
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    cursor: pointer;
+}
+
+.oldagram-logo{
+    width: 150px;
+}
+
+/* head */
+
+.container{
+    width: 480px;
+    margin: 0 auto;
+    background-color: white;
+    border-left: 1px solid #C6C6C6;
+    border-right: 1px solid #C6C6C6;
+}
+
+header{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    border-bottom: 1px solid #C6C6C6;
+    padding:10px 15px 10px 10px;
+    background-color: white;
+}
+
+/* section */
+
+#posts{
+    padding: 5px 0px;
+}
+
+.post{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 20px;
+}
+
+.post-header{
+    display: flex;
+    align-items: center;
+}
+
+.post-avatar{
+    padding: 10px 10px;
+}
+
+.post-img{
+    width: 100;
+}
+
+.post-footer{
+    margin-left: 15px;
+}
+
+.post-properties{
+    margin:10px 15px 10px 0px;
+    cursor: pointer;
+    width: 28px;
+}
+
+.all-likes{
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.post-footer-title{
+    font-weight: bold;
+    display: inline-block;
+}
