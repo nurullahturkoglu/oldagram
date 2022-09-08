@@ -1,7 +1,7 @@
 # oldagram
 
 ## Photos  
-![oldagram](https://user-images.githubusercontent.com/73299153/189153017-63021c49-6b3b-47c5-8f7c-e7e392894806.JPG)
+![oldagram](https://user-images.githubusercontent.com/73299153/189156298-d520bb08-8fcf-4f9d-8c01-baddfa58ff62.JPG)
 
 ## Live
 https://oldagram-turkoglu.netlify.app/
